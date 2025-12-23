@@ -1,8 +1,8 @@
-Package: eu.heinelt.ifile
-Name: iFile
-Version: 2.2.0-1
+Package: bag.xml.tuberepair
+Name: TubeRepair
+Version: 1.1-Beta-2
 Architecture: iphoneos-arm
 Description: Spero che funzioni.
-Filename: debs/eu.heinelt.ifile_2.2.0-1_iphoneos-arm.deb
-Size: 9751882
-MD5sum: 88766f339cc7b150e356331e4594db7b
+Filename: debs/bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
+Size: 101918
+MD5sum: 0A0B6A1A538C9AA369EF905FC6D1EB68
