@@ -1,17 +1,10 @@
-Package: com.tuonome.tweak1
-Name: Nome del Tweak
-Version: 1.0
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore plus plus (by CokePokes)
+Version: 1:0.10.1-5
 Architecture: iphoneos-arm
-Description: Il mio primo tweak
-Filename: debs/tuo-file.deb
-Size: 12345
-MD5sum: (codice md5)
-
-Package: bag.xml.tuberepair
-Name: TubeRepair
-Version: 1.1-Beta-2
-Architecture: iphoneos-arm
-Description: Spero che funzioni.
-Filename: https://github.com/pyramidsoftwares/repo/blob/main/debs/bag.xml.tuberepair_1.1-Beta-2_iphoneos-arm.deb
-Size: 101918
-MD5sum: 0a0b6a1a538c9aa369ef905fc6d1eb68
+Description: I DO COKE
+Filename: debs/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm
+Size: 4636364
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
+SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
+SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4
